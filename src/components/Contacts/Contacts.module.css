@@ -1,0 +1,10 @@
+.item {
+  display: flex;
+  width: 250px;
+  justify-content: space-between;
+  margin: 5px 0;
+}
+
+.button {
+  cursor: pointer;
+}

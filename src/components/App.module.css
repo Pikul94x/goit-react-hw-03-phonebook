@@ -1,5 +1,9 @@
-.title {
-  display: flex;
-  flex-direction: column;
-  margin: 10px;
+.container {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+} 
+
+.header {
+    margin-bottom: 20px;
 }
